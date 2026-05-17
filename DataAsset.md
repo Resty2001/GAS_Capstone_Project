@@ -191,6 +191,7 @@ CC 강도별 발동 확률 기준:
 ---
 
 ## 3. 전체 파라미터 구조
+```
 UGASSkillDataAsset
 │
 ├── [스킬 기본 정보]
@@ -222,6 +223,7 @@ UGASSkillDataAsset
 ├── MainEffect         : TSubclassOf  (필수)
 ├── CooldownEffect     : TSubclassOf  (필수)
 └── CooldownTag        : FGameplayTag (필수)
+```
 
 ---
 

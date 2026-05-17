@@ -32,6 +32,7 @@ Gameplay Tag는 GAS에서 스킬·상태·조건을 식별하는 계층형 레�
 ## 2. 전체 태그 트리
 
 ### 2.1 Skill 태그 — 스킬 분류 및 식별
+```
 Skill
 ├── Attack                          (공격 스킬 전체)
 │   ├── Melee                       (근접 공격)
@@ -49,6 +50,7 @@ Skill
 └── Enemy                       (적 대상)
 ├── Slow                    (이동속도 감소)
 └── Stun                    (기절)
+```
 
 **각 태그의 설계 의도**
 
@@ -66,11 +68,13 @@ Skill
 ---
 
 ### 2.2 Status 태그 — 상태이상 식별
+```
 Status
 ├── Burning                         (화상 — 지속 데미지)
 ├── Frozen                          (빙결 — 이동속도 감소)
 ├── Stunned                         (기절 — 행동 불가)
 └── Bleeding                        (출혈 — 지속 데미지 + 회복 방해)
+```
 
 **상태이상 작동 원리**
 
@@ -90,6 +94,7 @@ Status
 ---
 
 ### 2.3 Cooldown 태그 — 쿨타임 관리
+```
 Cooldown
 ├── Skill
 │   ├── Q                           (Q키 스킬 쿨타임)
@@ -101,6 +106,7 @@ Cooldown
 │   ├── C                           (C키 스킬 쿨타임)
 │   └── V                           (V키 스킬 쿨타임)
 └── Duration                        (SetByCaller용 — DA에서 수치 주입)
+```
 
 **쿨타임 작동 원리**
 스킬 발동
@@ -112,9 +118,11 @@ Cooldown
 ---
 
 ### 2.4 Data 태그 — SetByCaller 수치 전달
+```
 Data
 ├── Damage                          (데미지 수치 전달용)
 └── Healing                         (회복/쉴드 수치 전달용)
+```
 
 이 태그는 GameplayEffect에 수치를 동적으로 주입할 때만 사용한다.
 DA의 BaseDamage 값 → SetByCaller(Data.Damage) → GE_DamageBase에 전달.

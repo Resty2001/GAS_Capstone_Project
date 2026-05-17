@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GitHub/GAS_Capstone_Project/GASSkillSystem/Content/DataAssets/DA_Skill_FrozenAttack.uasset",
+				"C:/GitHub/GAS_Capstone_Project/GASSkillSystem/Content/GameplayAbilities/GA_FrozenAttack.uasset",
+				"C:/GitHub/GAS_Capstone_Project/GASSkillSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/UE_Projects/GASSkillSystem/Content/GA_Attack_Basic.uasset",
 				"C:/UE_Projects/GASSkillSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/UE_Projects/GASSkillSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",

@@ -60,6 +60,7 @@ HP가 낮아도 물러서지 않고 돌진한다.
 플레이어를 압박하는 역할로 초반 전투 긴장감을 담당한다.
 
 ### 3.2 State Tree 구조
+```
 Root
 ├── [Dead] HP <= 0
 │     └── Action: Death Animation → Destroy
@@ -89,6 +90,7 @@ Root
 │
 └── [Idle] 순찰
 └── Action: Patrol (웨이포인트 순환)
+```
 
 ### 3.3 행동 상세
 
@@ -117,6 +119,7 @@ HP가 낮으면 물러서면서 쉴드를 치고 회복을 기다린다.
 플레이어의 스킬 낭비를 유도하고 전투를 장기화한다.
 
 ### 4.2 State Tree 구조
+```
 Root
 ├── [Dead] HP <= 0
 │     └── Action: Death Animation → Destroy
@@ -143,6 +146,7 @@ Root
 │               → 쉴드 2회 후: 반격 BasicAttack
 │
 └── [Idle] 제자리 대기 (순찰 없음)
+```
 
 ### 4.3 행동 상세
 
@@ -169,6 +173,7 @@ Root
 근접 거리에서는 극도로 취약해 도주한다.
 
 ### 5.2 State Tree 구조
+```
 Root
 ├── [Dead] HP <= 0
 │     └── Action: Death Animation → Destroy
@@ -201,6 +206,7 @@ Root
 │               → 회복 불가 시 FireBolt로 지속 원거리 딜
 │
 └── [Idle] 제자리 부유 (순찰 없음)
+```
 
 ### 5.3 행동 상세
 
