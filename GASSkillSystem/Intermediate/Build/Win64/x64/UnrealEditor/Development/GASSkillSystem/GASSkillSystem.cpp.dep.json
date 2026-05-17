@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\ue_projects\\gasskillsystem\\source\\gasskillsystem\\gasskillsystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\ue_projects\\gasskillsystem\\intermediate\\build\\win64\\x64\\gasskillsystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\ue_projects\\gasskillsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gasskillsystem\\definitions.gasskillsystem.h",
+            "c:\\ue_projects\\gasskillsystem\\source\\gasskillsystem\\gasskillsystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

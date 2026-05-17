@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\UE_Projects\\GASSkillSystem\\Source\\GASSkillSystem\\GASSkillSystem.Build.cs",
+		"C:\\UE_Projects\\GASSkillSystem\\Source\\GASSkillSystem.Target.cs",
+		"C:\\UE_Projects\\GASSkillSystem\\Source\\GASSkillSystemEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}

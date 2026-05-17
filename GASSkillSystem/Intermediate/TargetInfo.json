@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GASSkillSystem",
+			"Path": "..\\Source\\GASSkillSystem.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GASSkillSystemEditor",
+			"Path": "..\\Source\\GASSkillSystemEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

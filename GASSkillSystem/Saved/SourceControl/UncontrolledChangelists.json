@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UE_Projects/GASSkillSystem/Content/GA_Attack_Basic.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/Input/IMC_Default.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/DA_Skill_BasicAttack.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/DA_Skill_HeavyStrike.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GA_Attack_HeavyStrike.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GE_DamageBase.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GE_CooldownBase.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/WBP_HUD.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/DataAssets/DA_Skill_BasicAttack.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/DataAssets/DA_Skill_HeavyStrike.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GameplayAbilities/GA_Attack_Basic.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GameplayAbilities/GA_Attack_HeavyStrike.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GameplayEffects/GE_CooldownBase.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GameplayEffects/GE_DamageBase.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/DataAssets/DA_Skill_FireStrike.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/DataAssets/DA_Skill_AoESlam.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/DataAssets/DA_Skill_PiercingArrow.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/DataAssets/DA_Skill_ChainLightning.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GameplayEffects/GE_ShieldBase.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GameplayEffects/GE_AttackBuffBase.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/DataAssets/DA_Skill_IronShield.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/DataAssets/DA_Skill_BattleCry.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/DataAssets/DA_Skill_Evasion.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/DataAssets/DA_Skill_Regeneration.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GameplayAbilities/GA_FireStrike.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GameplayAbilities/GA_AoESlam.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GameplayAbilities/GA_PiercingArrow.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GameplayAbilities/GA_ChainLightning.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GameplayAbilities/GA_IronShield.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GameplayAbilities/GA_BattleCry.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GameplayAbilities/GA_Evasion.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GameplayAbilities/GA_Regeneration.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/GE_Damage_30.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/BP_GASCharacter.uasset",
+				"C:/UE_Projects/GASSkillSystem/Content/IA_Skill_Q.uasset"
+			]
+		}
+	]
+}
