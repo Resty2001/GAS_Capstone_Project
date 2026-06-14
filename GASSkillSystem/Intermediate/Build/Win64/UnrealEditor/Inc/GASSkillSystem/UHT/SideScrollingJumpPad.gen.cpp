@@ -212,15 +212,15 @@ ASideScrollingJumpPad::~ASideScrollingJumpPad() {}
 // ********** End Class ASideScrollingJumpPad ******************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_SideScrolling_Gameplay_SideScrollingJumpPad_h__Script_GASSkillSystem_Statics
+struct Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_SideScrolling_Gameplay_SideScrollingJumpPad_h__Script_GASSkillSystem_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ASideScrollingJumpPad, ASideScrollingJumpPad::StaticClass, TEXT("ASideScrollingJumpPad"), &Z_Registration_Info_UClass_ASideScrollingJumpPad, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASideScrollingJumpPad), 3286774651U) },
 	};
-}; // Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_SideScrolling_Gameplay_SideScrollingJumpPad_h__Script_GASSkillSystem_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_SideScrolling_Gameplay_SideScrollingJumpPad_h__Script_GASSkillSystem_141091538{
+}; // Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_SideScrolling_Gameplay_SideScrollingJumpPad_h__Script_GASSkillSystem_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_SideScrolling_Gameplay_SideScrollingJumpPad_h__Script_GASSkillSystem_141091538{
 	TEXT("/Script/GASSkillSystem"),
-	Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_SideScrolling_Gameplay_SideScrollingJumpPad_h__Script_GASSkillSystem_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_SideScrolling_Gameplay_SideScrollingJumpPad_h__Script_GASSkillSystem_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_SideScrolling_Gameplay_SideScrollingJumpPad_h__Script_GASSkillSystem_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_SideScrolling_Gameplay_SideScrollingJumpPad_h__Script_GASSkillSystem_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

@@ -143,15 +143,15 @@ UGASGameplayAbilityBase::~UGASGameplayAbilityBase() {}
 // ********** End Class UGASGameplayAbilityBase ****************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASGameplayAbilityBase_h__Script_GASSkillSystem_Statics
+struct Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASGameplayAbilityBase_h__Script_GASSkillSystem_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UGASGameplayAbilityBase, UGASGameplayAbilityBase::StaticClass, TEXT("UGASGameplayAbilityBase"), &Z_Registration_Info_UClass_UGASGameplayAbilityBase, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UGASGameplayAbilityBase), 699670854U) },
 	};
-}; // Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASGameplayAbilityBase_h__Script_GASSkillSystem_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASGameplayAbilityBase_h__Script_GASSkillSystem_2522637725{
+}; // Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASGameplayAbilityBase_h__Script_GASSkillSystem_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASGameplayAbilityBase_h__Script_GASSkillSystem_2522637725{
 	TEXT("/Script/GASSkillSystem"),
-	Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASGameplayAbilityBase_h__Script_GASSkillSystem_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASGameplayAbilityBase_h__Script_GASSkillSystem_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASGameplayAbilityBase_h__Script_GASSkillSystem_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASGameplayAbilityBase_h__Script_GASSkillSystem_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

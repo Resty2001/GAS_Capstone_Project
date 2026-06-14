@@ -20,7 +20,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_UGASSkillDataAsset_Statics;
 GASSKILLSYSTEM_API UClass* Z_Construct_UClass_UGASSkillDataAsset_NoRegister();
 
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillDataAsset_h_26_INCLASS_NO_PURE_DECLS \
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillDataAsset_h_26_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGASSkillDataAsset(); \
 	friend struct ::Z_Construct_UClass_UGASSkillDataAsset_Statics; \
@@ -31,7 +31,7 @@ public: \
 	DECLARE_SERIALIZER(UGASSkillDataAsset)
 
 
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillDataAsset_h_26_ENHANCED_CONSTRUCTORS \
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillDataAsset_h_26_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UGASSkillDataAsset(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	/** Deleted move- and copy-constructors, should never be used */ \
@@ -43,12 +43,12 @@ public: \
 	NO_API virtual ~UGASSkillDataAsset();
 
 
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillDataAsset_h_23_PROLOG
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillDataAsset_h_26_GENERATED_BODY \
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillDataAsset_h_23_PROLOG
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillDataAsset_h_26_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillDataAsset_h_26_INCLASS_NO_PURE_DECLS \
-	FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillDataAsset_h_26_ENHANCED_CONSTRUCTORS \
+	FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillDataAsset_h_26_INCLASS_NO_PURE_DECLS \
+	FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillDataAsset_h_26_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -58,7 +58,7 @@ class UGASSkillDataAsset;
 // ********** End Class UGASSkillDataAsset *********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillDataAsset_h
+#define CURRENT_FILE_ID FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillDataAsset_h
 
 // ********** Begin Enum ESkillTargetType **********************************************************
 #define FOREACH_ENUM_ESKILLTARGETTYPE(op) \

@@ -368,15 +368,15 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_NS(, UCombatDamageable);
 // ********** End Interface UCombatDamageable ******************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Interfaces_CombatDamageable_h__Script_GASSkillSystem_Statics
+struct Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Interfaces_CombatDamageable_h__Script_GASSkillSystem_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UCombatDamageable, UCombatDamageable::StaticClass, TEXT("UCombatDamageable"), &Z_Registration_Info_UClass_UCombatDamageable, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UCombatDamageable), 3258136316U) },
 	};
-}; // Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Interfaces_CombatDamageable_h__Script_GASSkillSystem_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Interfaces_CombatDamageable_h__Script_GASSkillSystem_1926880346{
+}; // Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Interfaces_CombatDamageable_h__Script_GASSkillSystem_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Interfaces_CombatDamageable_h__Script_GASSkillSystem_1926880346{
 	TEXT("/Script/GASSkillSystem"),
-	Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Interfaces_CombatDamageable_h__Script_GASSkillSystem_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Interfaces_CombatDamageable_h__Script_GASSkillSystem_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Interfaces_CombatDamageable_h__Script_GASSkillSystem_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Interfaces_CombatDamageable_h__Script_GASSkillSystem_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

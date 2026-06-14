@@ -1,0 +1,28 @@
+[5716:9752:0614/122554.761:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[5716:5000:0614/122554.954:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[5716:9752:0614/122555.043:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13492:10280:0614/122600.315:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-ED29CD9A3CAF06696BF1887E44B766AD will be ignored
+[5716:9752:0614/122600.981:ERROR:device_event_log_impl.cc(196)] [12:26:00.659] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[5716:9344:0614/122602.343:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[5716:9752:0614/122602.674:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[5716:9752:0614/122602.674:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[5716:9752:0614/122602.674:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[5716:9752:0614/122602.674:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[5716:9344:0614/122602.681:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[17352:15408:0614/122609.341:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17352:15408:0614/122609.475:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17352:20060:0614/122609.485:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17352:20060:0614/122609.486:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17352:20060:0614/122609.486:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15188:1976:0614/122609.677:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[15188:1976:0614/122609.682:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[15188:1976:0614/122609.683:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[15188:1976:0614/122609.683:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[17352:20060:0614/122609.683:WARNING:stun_port.cc(442)] Port[435ac00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17352:20060:0614/122609.683:WARNING:stun_port.cc(442)] Port[5068000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17352:20060:0614/122609.683:WARNING:stun_port.cc(442)] Port[5068400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19492:21556:0614/122816.021:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19492:21556:0614/122816.021:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[5716:9752:0614/125000.371:ERROR:device_event_log_impl.cc(196)] [12:50:00.212] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[5716:9752:0614/132448.868:ERROR:device_event_log_impl.cc(196)] [13:24:48.699] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[5716:9752:0614/133906.674:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

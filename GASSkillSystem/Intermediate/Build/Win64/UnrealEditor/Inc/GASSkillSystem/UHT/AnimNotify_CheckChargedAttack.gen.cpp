@@ -109,15 +109,15 @@ UAnimNotify_CheckChargedAttack::~UAnimNotify_CheckChargedAttack() {}
 // ********** End Class UAnimNotify_CheckChargedAttack *********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Animation_AnimNotify_CheckChargedAttack_h__Script_GASSkillSystem_Statics
+struct Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Animation_AnimNotify_CheckChargedAttack_h__Script_GASSkillSystem_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UAnimNotify_CheckChargedAttack, UAnimNotify_CheckChargedAttack::StaticClass, TEXT("UAnimNotify_CheckChargedAttack"), &Z_Registration_Info_UClass_UAnimNotify_CheckChargedAttack, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UAnimNotify_CheckChargedAttack), 3449106971U) },
 	};
-}; // Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Animation_AnimNotify_CheckChargedAttack_h__Script_GASSkillSystem_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Animation_AnimNotify_CheckChargedAttack_h__Script_GASSkillSystem_2452700725{
+}; // Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Animation_AnimNotify_CheckChargedAttack_h__Script_GASSkillSystem_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Animation_AnimNotify_CheckChargedAttack_h__Script_GASSkillSystem_2452700725{
 	TEXT("/Script/GASSkillSystem"),
-	Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Animation_AnimNotify_CheckChargedAttack_h__Script_GASSkillSystem_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Animation_AnimNotify_CheckChargedAttack_h__Script_GASSkillSystem_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Animation_AnimNotify_CheckChargedAttack_h__Script_GASSkillSystem_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Combat_Animation_AnimNotify_CheckChargedAttack_h__Script_GASSkillSystem_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

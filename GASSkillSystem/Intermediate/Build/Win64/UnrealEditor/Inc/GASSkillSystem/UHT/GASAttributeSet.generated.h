@@ -19,7 +19,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct FGameplayAttributeData;
 
 // ********** Begin Class UGASAttributeSet *********************************************************
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnRep_AttackPower); \
 	DECLARE_FUNCTION(execOnRep_Mana); \
 	DECLARE_FUNCTION(execOnRep_MaxHP); \
@@ -29,7 +29,7 @@ struct FGameplayAttributeData;
 struct Z_Construct_UClass_UGASAttributeSet_Statics;
 GASSKILLSYSTEM_API UClass* Z_Construct_UClass_UGASAttributeSet_NoRegister();
 
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_18_INCLASS_NO_PURE_DECLS \
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_18_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGASAttributeSet(); \
 	friend struct ::Z_Construct_UClass_UGASAttributeSet_Statics; \
@@ -52,7 +52,7 @@ private: \
 public:
 
 
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_18_ENHANCED_CONSTRUCTORS \
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_18_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	UGASAttributeSet(UGASAttributeSet&&) = delete; \
 	UGASAttributeSet(const UGASAttributeSet&) = delete; \
@@ -62,13 +62,13 @@ public:
 	NO_API virtual ~UGASAttributeSet();
 
 
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_15_PROLOG
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_18_GENERATED_BODY \
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_15_PROLOG
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_18_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_18_INCLASS_NO_PURE_DECLS \
-	FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_18_ENHANCED_CONSTRUCTORS \
+	FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_18_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_18_INCLASS_NO_PURE_DECLS \
+	FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h_18_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -78,6 +78,6 @@ class UGASAttributeSet;
 // ********** End Class UGASAttributeSet ***********************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h
+#define CURRENT_FILE_ID FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASAttributeSet_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

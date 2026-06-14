@@ -17,6 +17,9 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
     </None>
@@ -43,6 +46,18 @@
       <Filter>Source\GASSkillSystem</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\GASSkillSystem\GASGameplayAbilityBase.h">
+      <Filter>Source\GASSkillSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GASSkillSystem\GASNPCCharacter.cpp">
+      <Filter>Source\GASSkillSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GASSkillSystem\GASNPCCharacter.h">
+      <Filter>Source\GASSkillSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GASSkillSystem\GASSkillDataAsset.cpp">
+      <Filter>Source\GASSkillSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GASSkillSystem\GASSkillDataAsset.h">
       <Filter>Source\GASSkillSystem</Filter>
     </ClInclude>
     <None Include="..\..\Source\GASSkillSystem\GASSkillSystem.Build.cs">
@@ -339,15 +354,5 @@
     <ClInclude Include="..\..\Source\GASSkillSystem\Variant_SideScrolling\UI\SideScrollingUI.h">
       <Filter>Source\GASSkillSystem\Variant_SideScrolling\UI</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\GASSkillSystem\GASSkillDataAsset.h">
-      <Filter>Source\GASSkillSystem</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\GASSkillSystem\GASSkillDataAsset.cpp">
-      <Filter>Source\GASSkillSystem</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

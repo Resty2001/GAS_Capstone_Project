@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class AGASSkillSystemCharacter *************************************************
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execDoJumpEnd); \
 	DECLARE_FUNCTION(execDoJumpStart); \
 	DECLARE_FUNCTION(execDoLook); \
@@ -28,7 +28,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_AGASSkillSystemCharacter_Statics;
 GASSKILLSYSTEM_API UClass* Z_Construct_UClass_AGASSkillSystemCharacter_NoRegister();
 
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_25_INCLASS_NO_PURE_DECLS \
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_25_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAGASSkillSystemCharacter(); \
 	friend struct ::Z_Construct_UClass_AGASSkillSystemCharacter_Statics; \
@@ -40,7 +40,7 @@ public: \
 	virtual UObject* _getUObject() const override { return const_cast<AGASSkillSystemCharacter*>(this); }
 
 
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_25_ENHANCED_CONSTRUCTORS \
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_25_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AGASSkillSystemCharacter(AGASSkillSystemCharacter&&) = delete; \
 	AGASSkillSystemCharacter(const AGASSkillSystemCharacter&) = delete; \
@@ -50,13 +50,13 @@ public: \
 	NO_API virtual ~AGASSkillSystemCharacter();
 
 
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_21_PROLOG
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_25_GENERATED_BODY \
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_21_PROLOG
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_25_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_25_INCLASS_NO_PURE_DECLS \
-	FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_25_ENHANCED_CONSTRUCTORS \
+	FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_25_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_25_INCLASS_NO_PURE_DECLS \
+	FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h_25_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -66,6 +66,6 @@ class AGASSkillSystemCharacter;
 // ********** End Class AGASSkillSystemCharacter ***************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h
+#define CURRENT_FILE_ID FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_GASSkillSystemCharacter_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

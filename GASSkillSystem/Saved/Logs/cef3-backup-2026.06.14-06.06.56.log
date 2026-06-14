@@ -1,0 +1,24 @@
+[13456:5964:0614/150448.240:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13456:16560:0614/150448.282:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[13456:5964:0614/150448.308:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17512:14688:0614/150452.577:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-22B9135DEB6BC1FC619363171C768954 will be ignored
+[13456:21192:0614/150454.250:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[13456:5964:0614/150454.912:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[13456:5964:0614/150454.913:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[13456:5964:0614/150454.913:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[13456:5964:0614/150454.913:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[13456:21192:0614/150454.916:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[13456:5964:0614/150456.910:ERROR:device_event_log_impl.cc(196)] [15:04:56.581] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+[12484:19084:0614/150501.916:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12484:19084:0614/150502.046:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12484:6328:0614/150502.055:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12484:6328:0614/150502.056:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[12484:6328:0614/150502.056:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17228:14368:0614/150502.252:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[17228:14368:0614/150502.253:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[17228:14368:0614/150502.253:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[17228:14368:0614/150502.253:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[12484:6328:0614/150502.253:WARNING:stun_port.cc(442)] Port[525e400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[12484:6328:0614/150502.253:WARNING:stun_port.cc(442)] Port[525ec00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[12484:6328:0614/150502.253:WARNING:stun_port.cc(442)] Port[525f400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[13456:5964:0614/150656.979:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

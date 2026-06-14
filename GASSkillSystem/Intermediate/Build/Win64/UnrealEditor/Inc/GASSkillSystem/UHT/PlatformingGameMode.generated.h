@@ -20,7 +20,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_APlatformingGameMode_Statics;
 GASSKILLSYSTEM_API UClass* Z_Construct_UClass_APlatformingGameMode_NoRegister();
 
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Platforming_PlatformingGameMode_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Platforming_PlatformingGameMode_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAPlatformingGameMode(); \
 	friend struct ::Z_Construct_UClass_APlatformingGameMode_Statics; \
@@ -31,7 +31,7 @@ public: \
 	DECLARE_SERIALIZER(APlatformingGameMode)
 
 
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Platforming_PlatformingGameMode_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Platforming_PlatformingGameMode_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	APlatformingGameMode(APlatformingGameMode&&) = delete; \
 	APlatformingGameMode(const APlatformingGameMode&) = delete; \
@@ -41,12 +41,12 @@ public: \
 	NO_API virtual ~APlatformingGameMode();
 
 
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Platforming_PlatformingGameMode_h_12_PROLOG
-#define FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Platforming_PlatformingGameMode_h_15_GENERATED_BODY \
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Platforming_PlatformingGameMode_h_12_PROLOG
+#define FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Platforming_PlatformingGameMode_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Platforming_PlatformingGameMode_h_15_INCLASS_NO_PURE_DECLS \
-	FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Platforming_PlatformingGameMode_h_15_ENHANCED_CONSTRUCTORS \
+	FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Platforming_PlatformingGameMode_h_15_INCLASS_NO_PURE_DECLS \
+	FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Platforming_PlatformingGameMode_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -56,6 +56,6 @@ class APlatformingGameMode;
 // ********** End Class APlatformingGameMode *******************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_UE_Projects_GASSkillSystem_Source_GASSkillSystem_Variant_Platforming_PlatformingGameMode_h
+#define CURRENT_FILE_ID FID_GitHub_GAS_Capstone_Project_GASSkillSystem_Source_GASSkillSystem_Variant_Platforming_PlatformingGameMode_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

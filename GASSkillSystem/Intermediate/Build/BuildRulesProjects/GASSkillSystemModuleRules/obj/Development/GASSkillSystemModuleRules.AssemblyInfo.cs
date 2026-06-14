@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GASSkillSystemModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83bd03465d07ff795dd9090cfe47696eb8053ceb")]
 [assembly: System.Reflection.AssemblyProductAttribute("GASSkillSystemModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GASSkillSystemModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -28,6 +28,7 @@
 			"EnvQueryContext_Player.gen.cpp.obj",
 			"GASAttributeSet.gen.cpp.obj",
 			"GASGameplayAbilityBase.gen.cpp.obj",
+			"GASNPCCharacter.gen.cpp.obj",
 			"GASSkillDataAsset.gen.cpp.obj",
 			"GASSkillSystem.init.gen.cpp.obj",
 			"GASSkillSystemCharacter.gen.cpp.obj",
@@ -44,16 +45,15 @@
 			"SideScrollingJumpPad.gen.cpp.obj",
 			"SideScrollingMovingPlatform.gen.cpp.obj",
 			"SideScrollingNPC.gen.cpp.obj",
-			"SideScrollingPickup.gen.cpp.obj",
-			"SideScrollingPlayerController.gen.cpp.obj"
+			"SideScrollingPickup.gen.cpp.obj"
 		],
 		"Module.GASSkillSystem.3.cpp.obj": [
+			"SideScrollingPlayerController.gen.cpp.obj",
 			"SideScrollingSoftPlatform.gen.cpp.obj",
 			"SideScrollingStateTreeUtility.gen.cpp.obj",
 			"SideScrollingUI.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
 			"GASAttributeSet.cpp.obj",
-			"GASGameplayAbilityBase.cpp.obj",
 			"GASSkillDataAsset.cpp.obj",
 			"GASSkillSystem.cpp.obj",
 			"GASSkillSystemCharacter.cpp.obj",
@@ -96,7 +96,9 @@
 			"SideScrollingCharacter.cpp.obj",
 			"SideScrollingGameMode.cpp.obj",
 			"SideScrollingPlayerController.cpp.obj",
-			"SideScrollingUI.cpp.obj"
+			"SideScrollingUI.cpp.obj",
+			"GASGameplayAbilityBase.cpp.obj",
+			"GASNPCCharacter.cpp.obj"
 		]
 	}
 }
