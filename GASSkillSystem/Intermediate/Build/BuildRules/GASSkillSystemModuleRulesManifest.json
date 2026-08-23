@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\GitHub\\GAS_Capstone_Project\\GASSkillSystem\\Source\\GASSkillSystem\\GASSkillSystem.Build.cs",
-		"C:\\GitHub\\GAS_Capstone_Project\\GASSkillSystem\\Source\\GASSkillSystem.Target.cs",
-		"C:\\GitHub\\GAS_Capstone_Project\\GASSkillSystem\\Source\\GASSkillSystemEditor.Target.cs"
-	],
-	"EngineVersion": "5.7.4"
-}
